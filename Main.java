@@ -3,8 +3,6 @@ class Main {
     Pessoal p = new Pessoal();
     p.set_idade(31);
 
-    p.
-
     System.out.println("A instância tem "+ p.get_idade() +" de idade");
   }
 }
